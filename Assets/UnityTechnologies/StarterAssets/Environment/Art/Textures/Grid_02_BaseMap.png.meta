@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 47e5cfa8d4675074da8443bd7d5d7d56
+guid: 26e2390d88b1cd249a1f3408da35077b
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -132,8 +132,9 @@ TextureImporter:
   assetBundleVariant: 
 AssetOrigin:
   serializedVersion: 1
-  productId: 4696
-  packageName: Robot Kyle | URP
-  packageVersion: 4.0
+  productId: 196526
+  packageName: Starter Assets - ThirdPerson | Updates in new CharacterController
+    package
+  packageVersion: 1.1.7
   assetPath: Assets/UnityTechnologies/StarterAssets/Environment/Art/Textures/Grid_02_BaseMap.png
-  uploadId: 847474
+  uploadId: 879174
